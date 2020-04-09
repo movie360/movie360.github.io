@@ -60,7 +60,7 @@ features                                  :
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
-    description                           : <a href="https://movie360.github.io/docs/term">Privacy</a><br><a href="http://movie360.github.io/docs/privacy">Term of service</a>
+    description                           : <a href="https://movie360.github.io/docs/privacy">Privacy</a><br><a href="http://movie360.github.io/docs/term">Term of service</a>
     fontawesome_icon_name                 : user-shield
 
 
