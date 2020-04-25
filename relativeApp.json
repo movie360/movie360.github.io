@@ -5,9 +5,14 @@
     "appId":"1488944709"
   },
   {
-    "name":"Mirror Camera",
+    "name":"Mirror Camera, True Visage",
     "iconImage":"https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/15/ea/b5/15eab552-7c3e-48b6-7b42-570d1dc5ac5c/source/100x100bb.jpg",
     "appId":"1209785450"
+  },
+  {
+    "name":"Bubble Wrap Popping",
+    "iconImage":"https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/1e/dd/4d/1edd4dd4-3aad-abd1-9b44-70e767dcbd6a/source/100x100bb.jpg",
+    "appId":"1198735181"
   }
 ]
 }
