@@ -10,7 +10,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/ios-marketing.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Show Box TV & Movies Hub                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Show Box & Movies Planner                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : You ever had the argument with your friends on what movie to watch.
                                             Our app will help you solve that problem.
